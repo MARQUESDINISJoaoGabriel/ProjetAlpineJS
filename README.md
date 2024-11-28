@@ -1,6 +1,6 @@
 # AlpineEFREI
 ![image](https://github.com/user-attachments/assets/9a271b9d-8827-45cb-b39a-6946db86ddad) Projet donné pour le module Framework w/ AlpineJS : Site d'exportations d'images avec une page login. <br>
-![image](https://github.com/user-attachments/assets/854ecb11-dd3c-4acd-bbc1-00c2acbdd841) PHASE : Tests
+![image](https://github.com/user-attachments/assets/854ecb11-dd3c-4acd-bbc1-00c2acbdd841) PHASE : Finale
 
 ---
 
